@@ -6,6 +6,8 @@ I live in Seattle and work on AI agents in [Visual Studio Code](https://code.vis
 
 ## Work
 
+My work GitHub identity is [@zhichli](https://github.com/zhichli), which contains much of my open-source work and contributions.
+
 My public work includes:
 
 - [Agent monitoring in VS Code](https://code.visualstudio.com/docs/agents/guides/monitoring-agents)
