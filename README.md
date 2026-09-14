@@ -44,7 +44,7 @@ My public collection of reusable agent skills is available at [b1tank/skills](ht
 | Project | Description | Links |
 | --- | --- | --- |
 | **OTelux** | A cross-platform, local-first OpenTelemetry desktop app for exploring traces, logs, and metrics, designed for use by both people and agents. | [GitHub](https://github.com/b1tank/otelux) |
-| **Agent Insights** *(Mentored intern project)* | A VS Code extension for exploring agent behavior in depth through OpenTelemetry, designed for use by both people and agents. | [GitHub](https://github.com/michiisai/agent-insights) |
+| **Agent Insights** *(Built by Michelle Ma, an intern I mentored)* | A VS Code extension built by [Michelle Ma (@michiisai)](https://github.com/michiisai), an intern I mentored, for exploring agent behavior in depth through OpenTelemetry, designed for use by both people and agents. | [GitHub](https://github.com/michiisai/agent-insights) |
 | **pi-otel** | Vendor-neutral OpenTelemetry instrumentation for the Pi coding agent, exporting traces, metrics, and logs with GenAI semantic conventions, privacy-first content controls, and bounded shutdown behavior. | [GitHub](https://github.com/b1tank/pi-otel) |
 | **Deskpal** *(Experimental)* | A Linux desktop-control MCP server for X11/Xwayland, AT-SPI, OCR, and isolated Xvfb verification. | [GitHub](https://github.com/b1tank/deskpal) |
 
